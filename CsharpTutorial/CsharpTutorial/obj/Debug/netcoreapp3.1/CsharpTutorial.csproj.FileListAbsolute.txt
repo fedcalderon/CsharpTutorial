@@ -1,0 +1,14 @@
+/Users/fed/Documents/GitHub/CsharpTutorial/CsharpTutorial/CsharpTutorial/bin/Debug/netcoreapp3.1/CsharpTutorial
+/Users/fed/Documents/GitHub/CsharpTutorial/CsharpTutorial/CsharpTutorial/bin/Debug/netcoreapp3.1/CsharpTutorial.deps.json
+/Users/fed/Documents/GitHub/CsharpTutorial/CsharpTutorial/CsharpTutorial/bin/Debug/netcoreapp3.1/CsharpTutorial.runtimeconfig.json
+/Users/fed/Documents/GitHub/CsharpTutorial/CsharpTutorial/CsharpTutorial/bin/Debug/netcoreapp3.1/CsharpTutorial.runtimeconfig.dev.json
+/Users/fed/Documents/GitHub/CsharpTutorial/CsharpTutorial/CsharpTutorial/bin/Debug/netcoreapp3.1/CsharpTutorial.dll
+/Users/fed/Documents/GitHub/CsharpTutorial/CsharpTutorial/CsharpTutorial/bin/Debug/netcoreapp3.1/CsharpTutorial.pdb
+/Users/fed/Documents/GitHub/CsharpTutorial/CsharpTutorial/CsharpTutorial/obj/Debug/netcoreapp3.1/CsharpTutorial.csproj.AssemblyReference.cache
+/Users/fed/Documents/GitHub/CsharpTutorial/CsharpTutorial/CsharpTutorial/obj/Debug/netcoreapp3.1/CsharpTutorial.GeneratedMSBuildEditorConfig.editorconfig
+/Users/fed/Documents/GitHub/CsharpTutorial/CsharpTutorial/CsharpTutorial/obj/Debug/netcoreapp3.1/CsharpTutorial.AssemblyInfoInputs.cache
+/Users/fed/Documents/GitHub/CsharpTutorial/CsharpTutorial/CsharpTutorial/obj/Debug/netcoreapp3.1/CsharpTutorial.AssemblyInfo.cs
+/Users/fed/Documents/GitHub/CsharpTutorial/CsharpTutorial/CsharpTutorial/obj/Debug/netcoreapp3.1/CsharpTutorial.csproj.CoreCompileInputs.cache
+/Users/fed/Documents/GitHub/CsharpTutorial/CsharpTutorial/CsharpTutorial/obj/Debug/netcoreapp3.1/CsharpTutorial.dll
+/Users/fed/Documents/GitHub/CsharpTutorial/CsharpTutorial/CsharpTutorial/obj/Debug/netcoreapp3.1/CsharpTutorial.pdb
+/Users/fed/Documents/GitHub/CsharpTutorial/CsharpTutorial/CsharpTutorial/obj/Debug/netcoreapp3.1/CsharpTutorial.genruntimeconfig.cache

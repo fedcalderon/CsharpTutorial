@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "y1KdgeyTKtkeCDYR3THN6HEGNo3EJDhYp7lzhHIiqoMC/wCNDCxFNyNdwPsyoIDZSQ6iI6cuiM3aos4sjXoD4g==",
+  "success": true,
+  "projectFilePath": "/Users/fed/Documents/GitHub/CsharpTutorial/CsharpTutorial/CsharpTutorial/CsharpTutorial.csproj",
+  "expectedPackageFiles": [
+    "/Users/fed/.nuget/packages/microsoft.aspnetcore.app.ref/3.1.10/microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "/Users/fed/.nuget/packages/microsoft.netcore.app.host.osx-x64/3.1.28/microsoft.netcore.app.host.osx-x64.3.1.28.nupkg.sha512",
+    "/Users/fed/.nuget/packages/microsoft.netcore.app.ref/3.1.0/microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}
